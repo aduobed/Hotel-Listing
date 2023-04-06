@@ -1,0 +1,8 @@
+#Visual Studio Files
+*.vscode
+
+#Node Modules
+node_modules/
+*.cache
+dist/
+build/
