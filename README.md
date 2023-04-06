@@ -1,5 +1,6 @@
 # Sorting with Typescript
-
+=======
+# CsvFileReader Stats with Typescript
 
 
 ## Getting started
@@ -15,14 +16,22 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
+<<<<<<< HEAD
 git remote add origin https://gitlab.com/typescript_labs/sorting-with-typescript.git
+=======
+git remote add origin https://gitlab.com/typescript_labs/csvfilereader-stats-with-typescript.git
+>>>>>>> aa0af6ca3be09ae8caea76cca03702c39503fa3f
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
+<<<<<<< HEAD
 - [ ] [Set up project integrations](https://gitlab.com/typescript_labs/sorting-with-typescript/-/settings/integrations)
+=======
+- [ ] [Set up project integrations](https://gitlab.com/typescript_labs/csvfilereader-stats-with-typescript/-/settings/integrations)
+>>>>>>> aa0af6ca3be09ae8caea76cca03702c39503fa3f
 
 ## Collaborate with your team
 
